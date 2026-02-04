@@ -4,8 +4,8 @@ import pyImg from './assets/py.png';
 
 const Cirtificate = () => {
   return (
-    <div className='card'>
-      <h1 className='Heading' id='Certificate'>Certificates</h1>
+    <div className='card'id='Certificate'>
+      <h1 className='Heading' >Certificates</h1>
 
       <div className='images-container'>
         <div className='card1'>
